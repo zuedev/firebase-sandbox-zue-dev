@@ -34,5 +34,8 @@
       "port": 10001
     },
     "singleProjectMode": true
+  },
+  "storage": {
+    "rules": "storage.rules"
   }
 }
